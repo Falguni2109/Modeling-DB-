@@ -1,0 +1,2 @@
+# Modeling-DB-
+SQL exercises
